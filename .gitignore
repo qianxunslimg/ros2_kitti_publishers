@@ -9,3 +9,4 @@ build/
 
 # # 忽略特定文件夹及其内容
 # temp/
+.vscode/

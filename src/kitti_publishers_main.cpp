@@ -13,7 +13,7 @@
 // limitations under the License.
 
 #include <memory>
-#include "ros2_kitti_publishers/kitti_publishers_node.hpp" //test
+#include "ros2_kitti_publishers/kitti_publishers_node.hpp" 
 
 
 #include "rclcpp/rclcpp.hpp"
