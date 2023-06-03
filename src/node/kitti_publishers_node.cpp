@@ -78,7 +78,7 @@ void KittiPublishersNode::on_timer_callback()
   publisher_image_gray_left_->publish(std::move(image_message_gray_left));
   publisher_image_gray_right_->publish(std::move(image_message_gray_right));
   publisher_image_color_left_->publish(std::move(image_message_color_left));
-  publisher_image_color_right_->publish(std::move(image_message_color_right));
+  publisher_image_color_right_->publish(std::move(image_message_color_right));  //test
 
   publisher_imu_->publish(std::move(imu_msg));
   publisher_nav_sat_fix_->publish(std::move(nav_sat_fix_msg));
