@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/build",
+  "command": "/usr/bin/g++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DPLUGINLIB__DISABLE_BOOST_FUNCTIONS -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -I/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/include -isystem /usr/include/pcl-1.10 -isystem /usr/include/eigen3 -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4  -g   -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/kitti_publishers.dir/src/kitti_publishers_main.cpp.o -c /home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/src/kitti_publishers_main.cpp",
+  "file": "/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/src/kitti_publishers_main.cpp"
+},
+{
+  "directory": "/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/build",
+  "command": "/usr/bin/g++  -DDEFAULT_RMW_IMPLEMENTATION=rmw_fastrtps_cpp -DPLUGINLIB__DISABLE_BOOST_FUNCTIONS -DRCUTILS_ENABLE_FAULT_INJECTION -DSPDLOG_COMPILED_LIB -Dros2_kitti_publishers_EXPORTS -I/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/include -I/usr/include/pcl-1.10 -I/usr/include/eigen3 -isystem /opt/ros/foxy/include -isystem /usr/include/opencv4  -g -fPIC   -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/ros2_kitti_publishers.dir/src/node/kitti_publishers_node.cpp.o -c /home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/src/node/kitti_publishers_node.cpp",
+  "file": "/home/qianxunslimg/Desktop/study/ros_kitty/ros_my_kitti/src/ros2_kitti_publishers/src/node/kitti_publishers_node.cpp"
+}
+]
